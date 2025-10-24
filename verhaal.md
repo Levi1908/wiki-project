@@ -4,7 +4,6 @@ De serie volgt het verhaal van goalkeeper Mark Evans die voor het team Raimon Jr
 
 Hij probeert de voetstappen van zijn opa te volgen die vroeger een legendarische voetbalscoach en keeper was.
 
-Dit is een extra paragraaf
-Dit is een extra paragraaf via github.
+Dit is een extra paragraaf via VS CODE en Via Github
 *Andere pagina's*
 [Home](./index.md) |  [Personages](./personages.md) | [Locaties](./locaties.md)

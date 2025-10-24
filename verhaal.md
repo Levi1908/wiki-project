@@ -1,0 +1,8 @@
+# Waarover gaat Inazuma Eleven
+
+De serie volgt het verhaal van goalkeeper Mark Evans die voor het team Raimon Jr. High speelt. Het gaat over hoe Mark en zijn team het nationale en internationale voetbalkampioenschap spelen en winnen. Ondertussen spelen ze ook tegen aliens en mythische wezens.
+
+Hij probeert de voetstappen van zijn opa te volgen die vroeger een legendarische voetbalscoach en keeper was.
+
+*Andere pagina's*
+[Home](./index.md) |  [Personages](./personages.md) | [Locaties](./locaties.md)
